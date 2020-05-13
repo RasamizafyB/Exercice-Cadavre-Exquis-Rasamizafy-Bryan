@@ -1,2 +1,3 @@
 # Exercice-Cadavre-Exquis-Rasamizafy-Bryan
 Il était une fois
+Il était une fois un kangourou qui aimait manger des pommes. Mais hélas les pommes n'étaient pas fréquentes dans ses contrées...
