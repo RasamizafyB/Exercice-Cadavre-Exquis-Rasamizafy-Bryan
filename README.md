@@ -22,3 +22,5 @@ while (alive) {
 }
 ```
 ![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
+
+Ouah. Le manque de pommes lui faisait avoir des hallucinations. Tout un tas de choses très bizarres se passaient dans sa tête...
