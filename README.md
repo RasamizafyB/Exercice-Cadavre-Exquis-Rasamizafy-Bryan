@@ -27,3 +27,5 @@ while (alive) {
 Ouah. Le manque de pommes lui faisait avoir des hallucinations. Tout un tas de choses très bizarres se passaient dans sa tête...
 
 ![doggy style !](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
+
+Il décida de sortir pour aller au magasin pour vite combler à ce manque de pomme.
