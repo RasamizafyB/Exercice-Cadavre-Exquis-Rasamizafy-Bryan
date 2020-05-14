@@ -29,3 +29,6 @@ Ouah. Le manque de pommes lui faisait avoir des hallucinations. Tout un tas de c
 ![doggy style !](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
 
 Il décida de sortir pour aller au magasin pour vite combler à ce manque de pomme.
+
+**FIN**
+![BYE !] (https://media.giphy.com/media/UTYz3M8lcTvqaVbSo9/giphy.gif)
